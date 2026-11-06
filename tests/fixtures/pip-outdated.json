@@ -1,0 +1,6 @@
+[
+  {"name": "Django", "version": "2.2.28", "latest_version": "5.1.4", "latest_filetype": "wheel"},
+  {"name": "requests", "version": "2.31.0", "latest_version": "2.32.3", "latest_filetype": "wheel"},
+  {"name": "httpx", "version": "0.23.0", "latest_version": "0.28.1", "latest_filetype": "wheel"},
+  {"name": "urllib3", "version": "1.26.18", "latest_version": "1.26.20", "latest_filetype": "wheel"}
+]

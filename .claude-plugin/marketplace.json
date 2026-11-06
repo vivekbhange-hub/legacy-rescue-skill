@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "legacy-rescue-skill",
+  "description": "Inherited a codebase nobody understands? Map it, pin its behaviour with tests, and change it in small reversible steps.",
+  "owner": { "name": "Vivek Bhange", "url": "https://github.com/vivekbhange-hub" },
+  "plugins": [
+    {
+      "name": "legacy-rescue-skill",
+      "description": "Eight Claude Code skills and three agents for rescuing legacy code without breaking production: map the repo, find hotspots and dead code, write characterization tests, plan dependency upgrades and strangler migrations, refactor in a strict loop, and compile a 30/60/90-day plan.",
+      "source": "./",
+      "category": "development",
+      "homepage": "https://github.com/vivekbhange-hub/legacy-rescue-skill"
+    }
+  ]
+}

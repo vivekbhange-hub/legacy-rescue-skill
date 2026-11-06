@@ -1,0 +1,35 @@
+--rescue-commit--	c1	2025-01-10	Alice
+
+12	0	src/billing/invoice.py
+5	0	src/billing/tax.py
+3	0	README.md
+
+--rescue-commit--	c2	2025-02-03	Alice
+
+20	4	src/billing/invoice.py
+2	1	src/billing/tax.py
+
+--rescue-commit--	c3	2025-03-15	Bob
+
+7	7	src/billing/invoice.py
+1	1	src/billing/tax.py
+-	-	docs/diagram.png
+
+--rescue-commit--	c4	2025-04-01	Alice
+
+30	2	src/billing/invoice.py
+4	0	src/billing/tax.py
+120	80	package-lock.json
+
+--rescue-commit--	c5	2025-04-20	Carol
+
+3	1	src/util/strings.py
+
+--rescue-commit--	c6	2025-05-02	Carol
+
+2	2	src/{old => util}/dates.py
+
+--rescue-commit--	c7	2025-06-11	Alice
+
+9	3	src/billing/invoice.py
+1	0	src/legacy/removed.py

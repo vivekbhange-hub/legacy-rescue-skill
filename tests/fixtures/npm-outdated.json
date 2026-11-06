@@ -1,0 +1,7 @@
+{
+  "express": { "current": "4.17.1", "wanted": "4.21.2", "latest": "5.1.0", "dependent": "shop", "location": "node_modules/express" },
+  "lodash": { "current": "4.17.20", "wanted": "4.17.21", "latest": "4.17.21", "dependent": "shop", "location": "node_modules/lodash" },
+  "jest": { "current": "26.6.3", "wanted": "26.6.3", "latest": "29.7.0", "type": "devDependencies", "dependent": "shop" },
+  "moment": { "current": "2.24.0", "wanted": "2.30.1", "latest": "2.30.1", "dependent": "shop" },
+  "left-pad": { "wanted": "1.3.0", "latest": "1.3.0", "dependent": "shop" }
+}
