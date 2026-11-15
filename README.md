@@ -164,6 +164,12 @@ with:
 python -m unittest discover -s tests -v
 ```
 
+## Author
+
+Built by [Vivek Bhange](https://vivekbhange.tech), Full-Stack AI Engineer.
+See this project on my portfolio: https://vivekbhange.tech/projects/legacy-rescue-skill/
+More open-source skill packs: https://vivekbhange.tech/projects/
+
 ## License
 
 [MIT](LICENSE) © 2026 Vivek Bhange

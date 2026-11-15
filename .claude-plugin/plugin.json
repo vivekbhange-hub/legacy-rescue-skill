@@ -2,7 +2,7 @@
   "name": "legacy-rescue-skill",
   "description": "Rescue an inherited codebase without breaking production: map it, find the hotspots, pin current behaviour with characterization tests, then change it in small reversible steps.",
   "version": "1.0.0",
-  "author": { "name": "Vivek Bhange", "url": "https://github.com/vivekbhange-hub" },
+  "author": { "name": "Vivek Bhange", "url": "https://vivekbhange.tech" },
   "homepage": "https://github.com/vivekbhange-hub/legacy-rescue-skill",
   "repository": "https://github.com/vivekbhange-hub/legacy-rescue-skill",
   "license": "MIT",

@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "legacy-rescue-skill",
   "description": "Inherited a codebase nobody understands? Map it, pin its behaviour with tests, and change it in small reversible steps.",
-  "owner": { "name": "Vivek Bhange", "url": "https://github.com/vivekbhange-hub" },
+  "owner": { "name": "Vivek Bhange", "url": "https://vivekbhange.tech" },
   "plugins": [
     {
       "name": "legacy-rescue-skill",
